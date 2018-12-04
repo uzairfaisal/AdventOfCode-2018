@@ -1,5 +1,5 @@
-name := "AdventOfCode-2017"
+name := "AdventOfCode-2018"
 
 version := "1.0"
 
-scalaVersion := "2.12.1"
+scalaVersion := "2.12.8"
