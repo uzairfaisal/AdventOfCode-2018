@@ -12,7 +12,7 @@ abstract class Day(day: Int) extends App {
 
   private val formatted = "%02d".format(day)
 
-  private def readInput(): String = Source.fromFile(s"input/$formatted.txt").getLines().mkString(lineSeparator)
+  private def readInput(): Iterator[String] = Source.fromFile(s"input/$formatted.txt").getLines()
 
   private def writeOutput(output: String, subProblem: SubProblem): Unit = {
     val sub = subProblem match {
@@ -25,7 +25,7 @@ abstract class Day(day: Int) extends App {
     }
   }
 
-  protected val input: String = readInput()
+  protected val input: Iterator[String] = readInput()
 
   protected def solution(output: String, subProblem: SubProblem): Unit = {
     writeOutput(output, subProblem)

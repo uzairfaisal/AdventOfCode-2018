@@ -1,5 +1,3 @@
-name := "AdventOfCode-2018"
-
-version := "1.0"
-
-scalaVersion := "2.12.8"
+ThisBuild / organization := "adventofcode"
+ThisBuild / version := "1.0"
+ThisBuild / scalaVersion := "2.12.8"
