@@ -3,7 +3,7 @@ _My solutions to the 2018 edition of [Advent Of Code](https://adventofcode.com).
 
 ## Problems & Solutions
 
-* [Day 1](https://adventofcode.com/2018/day/1)<!--: [solution](https://github.com/uzairfaisal/AdventOfCode-2018/blob/master/src/main/scala/adventofcode/solutions/Day01.scala) -->
+* [Day 1](https://adventofcode.com/2018/day/1): [solution](https://github.com/uzairfaisal/advent-of-code-2018/blob/master/src/main/scala/adventofcode/solutions/Day01.scala)
 * [Day 2](https://adventofcode.com/2018/day/2)<!--: [solution](https://github.com/uzairfaisal/AdventOfCode-2018/blob/master/src/main/scala/adventofcode/solutions/Day02.scala) -->
 * [Day 3](https://adventofcode.com/2018/day/3)<!--: [solution](https://github.com/uzairfaisal/AdventOfCode-2018/blob/master/src/main/scala/adventofcode/solutions/Day03.scala) -->
 * [Day 4](https://adventofcode.com/2018/day/4)<!--: [solution](https://github.com/uzairfaisal/AdventOfCode-2018/blob/master/src/main/scala/adventofcode/solutions/Day04.scala) -->
